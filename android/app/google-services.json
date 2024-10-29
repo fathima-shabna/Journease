@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870623304964",
+    "project_id": "trip-aa08a",
+    "storage_bucket": "trip-aa08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870623304964:android:9420c2d557671758f5c451",
+        "android_client_info": {
+          "package_name": "com.example.journease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJL9HZW5IbO_iHIiHJNb2eZg8lsmHANQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
